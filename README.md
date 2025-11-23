@@ -1,5 +1,6 @@
 # Templates
 
+Exemplos de templates:
 - HTML
 - Git
 - Linux
