@@ -1,4 +1,4 @@
-# Estudos
+# Templates
 
 - HTML
 - Git
